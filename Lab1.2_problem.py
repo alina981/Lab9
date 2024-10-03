@@ -27,4 +27,5 @@ def romb():
 
 if __name__ == "__main__":
     romb()
+    print('test')
 
